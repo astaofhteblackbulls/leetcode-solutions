@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
