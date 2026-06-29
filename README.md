@@ -59,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
