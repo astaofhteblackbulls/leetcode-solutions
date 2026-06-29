@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
