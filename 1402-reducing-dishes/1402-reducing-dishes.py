@@ -12,7 +12,7 @@ class Solution(object):
                 pre=pre+arr[i]
                 val=val+pre
             else:
-                continue
+                break
         return val
 
 
