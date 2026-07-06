@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0169-majority-element) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2810-faulty-keyboard](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
