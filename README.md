@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0561-array-partition) |
 | [1402-reducing-dishes](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0561-array-partition) |
 | [1402-reducing-dishes](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0561-array-partition) |
 | [1402-reducing-dishes](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1402-reducing-dishes](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/1402-reducing-dishes) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/astaofhteblackbulls/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
